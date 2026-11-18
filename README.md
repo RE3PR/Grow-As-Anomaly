@@ -12,7 +12,8 @@ This is a working personal project for **Grow As Anomaly**, created to provide m
 - **Auto Claim Rewards** — A folder containing features to automatically claim rewards and milestones.
 
 ## Credits
-- Game: **Grow As Anomaly**
+- **Game:** [Grow As Anomaly](https://www.roblox.com/games/120121152269725)
+- **Developer:** Neutron Studio
 
 ## License
 
