@@ -1,0 +1,10 @@
+This is an automation of automatically claiming the rewards for Grow As Anomaly. 
+Basic guide to use this, you'll need to meet the following requirements:
+
+Screen resolution of: 1920x1080 (Scaling set 100%)
+A Windows OS
+
+Note that this script only works in fullscreen. And does not provide any malicious software or harming of one's system. 
+
+The code is included within the .exe so you are welcome to inspect the source code if you wish. This code is under the CC BY-NC-SA 4.0 License    
+Enjoy the script and do not use it for any ill intent!        
